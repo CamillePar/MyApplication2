@@ -13,5 +13,6 @@
         android:id="@+id/action_test"
         android:orderInCategory="200"
         android:title="@string/action_settings"
+        android:icon="@android:drawable/ic_menu_info_details"
         app:showAsAction="ifRoom" />
 </menu>
