@@ -23,6 +23,11 @@
             android:label="@string/title_activity_informations"
             android:theme="@style/AppTheme.NoActionBar" >
         </activity>
+        <activity
+            android:name=".Liste1"
+            android:label="@string/title_activity_liste1"
+            android:theme="@style/AppTheme.NoActionBar" >
+        </activity>
     </application>
 
 </manifest>
