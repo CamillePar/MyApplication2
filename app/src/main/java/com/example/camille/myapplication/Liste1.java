@@ -26,9 +26,4 @@ public class Liste1 extends AppCompatActivity {
     }
 
 
-
-    //public void setAdapter(ArrayAdapter<String> adapter) {
-    //  this.adapter1 = adapter;
-    //}
-
 }
